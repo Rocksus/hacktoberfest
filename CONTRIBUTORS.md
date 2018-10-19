@@ -1684,6 +1684,11 @@ Noida
 - Bio: Love to Code. Competetive Programming. Web Developer. OpenSource Lover. Data Mining.
 - Github: [npcoder2k14](https://github.com/npcoder2k14)
 
+### Name: [Natural Logarithm](https://github.com/Log-baseE)
+- Place: Jakarta, Indonesia
+- Bio: Passionate Computer Science student
+- Github: [Natural Logarithm](https://github.com/Log-baseE)
+
 #### Name: [Nawed Imroze](https://github.com/nawedx)
 - Place: Bhubaneswar, Odisha, India
 - Bio: Sophomore IT undergraduate, tech enthusiast, programmer and quizzer.
